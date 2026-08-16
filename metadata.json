@@ -1,0 +1,6 @@
+{
+  "name": "Daily Needs",
+  "description": "Daily Needs - Professional daily calorie, TDEE, protein, macros, and supplement dosage calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
